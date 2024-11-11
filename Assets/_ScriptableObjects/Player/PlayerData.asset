@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef9e08861153a3c4ca38cbb80e54ecd1, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  playerLevelDataSo: {fileID: 11400000, guid: b8889c4ea7a0d254a86338139960fccd, type: 2}
+  attackPower: 3
+  defence: 6
+  magicPower: 2
